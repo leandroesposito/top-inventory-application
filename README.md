@@ -1,4 +1,4 @@
-# Supercars Garage - Express.js Inventory Management System
+﻿# Supercars Garage - Express.js Inventory Management System
 
 A full-featured inventory management application for supercars, built with Express.js, PostgreSQL, and EJS. Demonstrates forms and data handling, validation, database integration, and deployment-ready architecture.
 
@@ -18,6 +18,15 @@ This project was specifically designed to demonstrate and practice:
 ## Live Demo
 
 [View Live Demo](https://top-inventory-inventory-application.onrender.com/)
+\*The free servers may take a few seconds to respond on first request.
+
+## Screenshots
+
+![Home page](https://github.com/leandroesposito/top-inventory-application/blob/main/screenshots/1_home.png)
+![Categories](https://github.com/leandroesposito/top-inventory-application/blob/main/screenshots/2_categories.png)
+![Category](https://github.com/leandroesposito/top-inventory-application/blob/main/screenshots/3_category.png)
+![Item](https://github.com/leandroesposito/top-inventory-application/blob/main/screenshots/4_item.png)
+![Brand](https://github.com/leandroesposito/top-inventory-application/blob/main/screenshots/5_brand.png)
 
 ## Project Architecture
 
